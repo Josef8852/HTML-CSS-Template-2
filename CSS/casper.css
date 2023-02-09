@@ -857,6 +857,14 @@ sup {
   width: 100%;
 }
 
+
+
+
+textarea {
+  border : 1px solid black  ;
+  margin-bottom: 10px;
+}
+
 .contact form {
   display: grid;
   grid-template-columns: 1fr;
